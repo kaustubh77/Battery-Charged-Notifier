@@ -1,5 +1,7 @@
 # Battery-Charged-Notifier
 
-![Alt text](/Images/"Battery Terminal img.JPG"?raw=true "Battery terminal logger")
+![Terminal logger](https://github.com/kaustubh77/Battery-Charged-Notifier/blob/master/Images/Battery%20terminal%20img.JPG?raw=true "Battery terminal logger")
 
-![Alt text](/Images/"Mobile push notification.jpg"?raw=true "Mobile push notification")
+![Mobile push notification](https://github.com/kaustubh77/Battery-Charged-Notifier/blob/master/Images/Mobile%20push%20notification.jpg?raw=true "Mobile push notification")
+
+
